@@ -1,4 +1,13 @@
-### Hi there 👋
+```js
+{ 
+  "name": "Leonid Belyaev",
+  "occupation": {
+    "title": "student",
+    "organization": "Northeastern University"
+  },
+  "interests": ["Linux", "FOS{S,H}", "amateur radio", ...]
+}
+```
 
 <!--
 **leonidbelyaev/leonidbelyaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
