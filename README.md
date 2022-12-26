@@ -5,7 +5,7 @@
     "title": "student",
     "organization": "Northeastern University"
   },
-  "interests": ["Linux", "FOS{S,H}", "amateur radio", ...]
+  "interests": ["Linux", "FOS{S,H}", "amateur radio", "systems security", ...]
 }
 ```
 
