@@ -3,7 +3,7 @@
   "name": "Leonid Belyaev",
   "occupation": {
     "title": "student",
-    "organization": "Northeastern University"
+    "institution": "Northeastern University"
   },
   "interests": ["Linux", "FOS{S,H}", "amateur radio", "systems security", ...]
 }
