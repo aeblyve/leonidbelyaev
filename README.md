@@ -5,6 +5,10 @@
     "title": "student",
     "institution": "Northeastern University"
   },
+  "radio_info": {
+    "callsign": "KC1QYF",
+    "dmr_id": 3199590
+  },
   "interests": ["Linux", "FOS{S,H}", "amateur radio", "systems security", ...]
 }
 ```
