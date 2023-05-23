@@ -2,7 +2,7 @@
 { 
   "name": "Leonid Belyaev",
   "occupation": {
-    "title": "student",
+    "title": "Scientific Programmer",
     "institution": "Northeastern University"
   },
   "radio_info": {
