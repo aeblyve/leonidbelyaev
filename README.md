@@ -1,10 +1,6 @@
 ```js
 { 
   "name": "Leonid Belyaev",
-  "occupation": {
-    "title": "Scientific Programmer",
-    "institution": "Northeastern University"
-  },
   "radio_info": {
     "callsign": "KC1QYF",
     "dmr_id": 3199590
