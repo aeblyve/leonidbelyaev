@@ -9,7 +9,7 @@
     "callsign": "KC1QYF",
     "dmr_id": 3199590
   },
-  "interests": ["Linux", "NixOS", "FOS{S,H}", "amateur radio", "systems security", ...]
+  "interests": ["Linux", "NixOS", "FOS{S,H}", "amateur radio", ...]
 }
 ```
 
