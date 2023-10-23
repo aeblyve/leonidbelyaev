@@ -1,6 +1,11 @@
 ```js
 { 
   "name": "Leonid Belyaev",
+  "occupation": {
+    "title": "Contracting Backend Developer",
+    "institution": "Tadpole Tutoring",
+    "comment": "Looking for work to start January 2024".
+  }
   "radio_info": {
     "callsign": "KC1QYF",
     "dmr_id": 3199590
